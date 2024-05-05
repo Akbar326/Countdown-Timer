@@ -1,0 +1,1 @@
+This project is a simple countdown timer built using Node.js. The user is prompted to enter a specific time duration in minutes and seconds, and the timer counts down from that point, displaying the remaining time in MM:SS format.
